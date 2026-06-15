@@ -7,7 +7,7 @@ import type {
   DMChannel,
   GroupDMChannel,
   VoiceBasedChannel,
-} from "discord.js-selfbot-v13";
+} from "discord.js-selfbot-youtsuho-v13";
 import type { GatewayEvent, GatewayEventMap } from "./GatewayEvents.js";
 import type { WebRtcConnWrapper } from "./voice/WebRtcWrapper.js";
 import { generateStreamKey, parseStreamKey } from "../utils.js";
