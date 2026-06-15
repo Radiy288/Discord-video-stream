@@ -42,7 +42,7 @@ importers:
       '@types/node':
         specifier: ^25.0.1
         version: 25.0.1
-      discord.js-selfbot-v13:
+      discord.js-selfbot-youtsuho-v13:
         specifier: ^3.7.1
         version: 3.7.1
       pkg-pr-new:
