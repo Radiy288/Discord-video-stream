@@ -26,12 +26,12 @@
         "@biomejs/biome": "2.3.8",
         "@types/fluent-ffmpeg": "^2.1.28",
         "@types/node": "^25.0.1",
-        "discord.js-selfbot-v13": "^3.7.1",
+        "discord.js-selfbot-youtsuho-v13": "^3.7.4",
         "pkg-pr-new": "^0.0.62",
         "typescript": "^5.9.3"
     },
     "peerDependencies": {
-        "discord.js-selfbot-v13": "^3.6.0"
+        "discord.js-selfbot-youtsuho-v13": "^3.7.4"
     },
     "engines": {
         "node": ">=22.4.0"
