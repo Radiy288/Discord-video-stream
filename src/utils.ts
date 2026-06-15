@@ -3,7 +3,7 @@ import type {
   DMChannel,
   GroupDMChannel,
   VoiceBasedChannel,
-} from "discord.js-selfbot-v13";
+} from "discord.js-selfbot-youtsuho-v13";
 
 export function normalizeVideoCodec(
   codec: string,
